@@ -1,0 +1,46 @@
+ #header{
+
+ 	padding: 10px;
+ 	background-color: black;
+ 	color: #FF00FF;
+ 	margin-left: auto;
+ 	margin-right: auto;
+
+ }
+
+ #bio{
+ 	clear: both;
+ 	color: white;
+
+	text-align: center;
+ }
+
+ #image{
+padding-bottom: 10px;
+ 	float: right;
+ }
+
+ #menu{
+padding-left: 20px;
+padding-top: 13px;
+ 	font-size: 20px;
+
+ 	float: left;
+
+ }
+
+ #portfolio{
+	 width: 100%;
+ }
+
+
+ body{
+
+ 	background-color: black;
+ }
+
+ a {color:#FF00FF;}      /* unvisited link */
+a:visited {color:#FF00FF;}  /* visited link */
+a:hover {color:#4CFFF3;}  /* mouse over link */
+a:active {color:#FF00FF;}  /* selected link */
+
